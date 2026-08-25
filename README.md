@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nadiallamoca/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:nadiallamocac@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
+
 ## Data Analyst | Python · SQL · Power BI · Machine Learning
 
 📍 Madrid, España
