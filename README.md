@@ -10,16 +10,8 @@
   <a href="mailto:nadiallamocac@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## Data Analyst | Python · SQL · Power BI · Machine Learning
-
-📍 Madrid, España
-📧 nadia.llamocac@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/nadiallamoca)
-
 ## Sobre mí
-Data Analyst con más de 5 años de experiencia en análisis 
-de datos en el sector sanitario público. Formación avanzada 
-en Data Science & ML (The Bridge, Madrid 2026).
+Data Analyst con más de 5 años de experiencia transformando datos en decisiones estratégicas. Especializada en análisis de datos sanitarios, elaboración de dashboards e indicadores KPI. Formación avanzada en Data Science & ML (The Bridge, Madrid 2026).
 
 ## 🛠️ Stack técnico
 Python · SQL · Power BI · Pandas · Scikit-Learn · 
