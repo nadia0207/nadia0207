@@ -14,26 +14,22 @@
 Data Analyst con más de 5 años de experiencia transformando datos en decisiones estratégicas. Especializada en análisis de datos sanitarios, elaboración de dashboards e indicadores KPI. Formación avanzada en Data Science & ML (The Bridge, Madrid 2026).
 
 ## 🛠️ Stack técnico
-**Data Analysis & Visualization**
-
+**Data Analysis & Visualization** 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-green)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-orange)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 ![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange)
 
-**Programming & Automation**
-
+**Programming & Automation** 
 ![Python](https://img.shields.io/badge/Python-Intermediate-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Intermediate-orange)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-Intermediate-orange)
 
-**Databases**
-
+**Databases** 
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-orange)
 
-**Tools & DevOps**
-
+**Tools & DevOps** 
 ![Git](https://img.shields.io/badge/Git-Intermediate-orange)
 ![Docker](https://img.shields.io/badge/Docker-Basic-blue)
 ![Flask](https://img.shields.io/badge/Flask-Intermediate-orange)
