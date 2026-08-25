@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Nadia Llamoca
 
-<!--
-**nadia0207/nadia0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Python · SQL · Power BI · Machine Learning
 
-Here are some ideas to get you started:
+📍 Madrid, España
+📧 nadia.llamocac@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/nadiallamoca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Data Analyst con más de 5 años de experiencia en análisis 
+de datos en el sector sanitario público. Formación avanzada 
+en Data Science & ML (The Bridge, Madrid 2026).
+
+## 🛠️ Stack técnico
+Python · SQL · Power BI · Pandas · Scikit-Learn · 
+PostgreSQL · MySQL · Flask · Git · Docker
+
+## 📊 Proyectos destacados
+- 🏥 Predicción de Satisfacción en Urgencias Hospitalarias
+- 🏦 Predicción de Churn Bancario
+- 🏠 Análisis de Subastas Inmobiliarias del BOE
