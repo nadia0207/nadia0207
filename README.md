@@ -14,8 +14,3 @@ en Data Science & ML (The Bridge, Madrid 2026).
 ## 🛠️ Stack técnico
 Python · SQL · Power BI · Pandas · Scikit-Learn · 
 PostgreSQL · MySQL · Flask · Git · Docker
-
-## 📊 Proyectos destacados
-- 🏥 Predicción de Satisfacción en Urgencias Hospitalarias
-- 🏦 Predicción de Churn Bancario
-- 🏠 Análisis de Subastas Inmobiliarias del BOE
